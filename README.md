@@ -6,7 +6,7 @@ sample and model link: https://drive.google.com/drive/folders/1OyRCHp2nzk-gsDQff
 model: https://drive.google.com/file/d/1E_D6oTFPKs74oEcDbgCjos8BtYdzx3S0/view?usp=sharing
 
 ## Aproach 
--First we imported all necessary library from tensoreflow and keras 
+-First we imported all necessary library from tensoreflow and keras <br>
 -Then we call our dataset and distribute in train,test and val folder (all contain sub folder yes and no )
 -After distribution we generate data from image data generator
 -Then we we made model and feed to model 
